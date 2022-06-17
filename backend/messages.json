@@ -1,0 +1,92 @@
+{
+  "messages": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "Hello",
+        "Good morning",
+        "Good day",
+        "Good evening"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, how can I help you?",
+        "Hi there, what can I do for you?",
+        "Aloha, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": [
+        "Bye",
+        "See you later",
+        "Goodbye"
+      ],
+      "responses": [
+        "See you later, aligator",
+        "Have a nice day!",
+        "Bye!"
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": [
+        "Thanks",
+        "Thank you",
+        "That's helpful",
+        "Thanks a lot!"
+      ],
+      "responses": [
+        "Happy to help!",
+        "Any time!",
+        "My pleasure"
+      ]
+    },
+    {
+      "tag": "items",
+      "patterns": [
+        "What do you sell?",
+        "What are you selling?",
+        "What do you have for sale?",
+        "What can I buy here?"
+      ],
+      "responses": [
+        "We sell tickets for concerts and other cultural events",
+        "We have tickets for concerts and other cultural events"
+      ]
+    },
+    {
+      "tag": "payments",
+      "patterns": [
+        "Do you take credit cards?",
+        "Do you accept Blik?",
+        "Can I pay with Przelewy24?"
+      ],
+      "responses": [
+        "We accept credit cards, Paypal, Przelewy24 and Blik"
+      ]
+    },
+    {
+      "tag": "delivery",
+      "patterns": [
+        "How long does delivery take?",
+        "When do I get my delivery?"
+      ],
+      "responses": [
+        "Delivery of electronic version of a ticket should take under an hour and for traditional ticket it takes 2-4 days"
+      ]
+    },
+    {
+      "tag": "funny",
+      "patterns": [
+        "Tell me a joke!"
+      ],
+      "responses": [
+        "Why don't scientists trust atoms? Because they make up everything.",
+        "Why can't you explain puns to kleptomaniacs? They always take things literally."
+      ]
+    }
+  ]
+}
